@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, im Ethan!👋🏽
+I am a young senior in highschool who is interested in cybersecurity, coding, and tech. I love to
 <!--
 **ethanfarq/ethanfarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
