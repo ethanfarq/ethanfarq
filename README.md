@@ -1,5 +1,7 @@
 ## Hi, im Ethan!👋🏽
 I am a young senior in highschool who is interested in cybersecurity, coding, and tech. I love to produce music, run, and lift weights.
+![giphy-downsized](https://github.com/user-attachments/assets/54d2ec85-3880-41d2-ae61-367f146a538a)
+
 <!--
 **ethanfarq/ethanfarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
